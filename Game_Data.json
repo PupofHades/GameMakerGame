@@ -12,7 +12,7 @@
   {
     "max_health": 1000000,
     "terminal_velocity": 3000,
-    "falling_air_control": 1500,
+    "falling_air_control": 850,
     "immediate_jump_force_horizontal": 0,
     "immediate_jump_force_vertical": -1000,
     "impulse_jump_force_horizontal": 0,
