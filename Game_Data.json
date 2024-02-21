@@ -1,7 +1,7 @@
 {
   "Settings": 
   {
-    "world_gravity_factor": 357,
+    "world_gravity_factor": 2500,
     "money_pickup_cash_min": 15,
     "money_pickup_cash_max": 60,
     "conveyorbelt_horizontal_force": 500,
@@ -10,26 +10,25 @@
 
   "Player": 
   {
-    "max_health": 20,
-    "terminal_velocity": 50,
-    "falling_air_control": 467,
-    "immediate_jump_force_horizontal": 66,
-    "immediate_jump_force_vertical": -4046,
-    "impulse_jump_force_horizontal": 321,
+    "max_health": 1000000,
+    "terminal_velocity": 3000,
+    "falling_air_control": 850,
+    "immediate_jump_force_horizontal": 0,
+    "immediate_jump_force_vertical": -1000,
+    "impulse_jump_force_horizontal": 0,
     "impulse_jump_force_vertical": -2000,
-    "immediate_jump_airspin_force_vertical": -50,
-    "impulse_jump_airspin_force_horizontal": 234,
-    "impulse_jump_airspin_force_vertical": -222,
-    "immediate_jumproll_force_horizontal": 6666,
-    "immediate_jumproll_force_vertical": -55,
-    "impulse_jumproll_force_horizontal": 357,
-    "impulse_jumproll_force_vertical": 6,
-    "ladder_climb_speed": 10,
-    "run_speed": 275,
+    "immediate_jump_airspin_force_vertical": -750,
+    "impulse_jump_airspin_force_horizontal": 0,
+    "impulse_jump_airspin_force_vertical": -750,
+    "immediate_jumproll_force_horizontal": 350,
+    "immediate_jumproll_force_vertical": 0,
+    "impulse_jumproll_force_horizontal": 350,
+    "impulse_jumproll_force_vertical": 0,
+    "ladder_climb_speed": 100,
+    "run_speed": 1600,
     "run_crouch_speed": 100,
-    "walk_speed": 500,
-    "walk_crouch_speed": 1650,
-    "wall_slide_speed": 336
+    "walk_speed": 850,
+    "walk_crouch_speed": 600,
+    "wall_slide_speed": 1000
   }
 }
-
